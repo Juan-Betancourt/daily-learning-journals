@@ -1,0 +1,2 @@
+# LJ-code201-day35
+Recently, I learned that frustration holds me back from completing specific tasks and coding correctly.  I need to enjoy the fact that I am learning something new and if one method is not working for me I should find a new way to learn. Overall, everyone learns in a different composition and circumstances. I am still searching to see what works for me. 

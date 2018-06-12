@@ -1,0 +1,2 @@
+# LJ Code 201 - Day 31
+As an adult, I know that this is vital to find the time and learn how to code. More importantly, finding the motivation and staying motivated is equally essential. I see coding exciting because eventually, it leads to developing something. Furthermore, I agree with andragogy over pedagogy; however, pedagogy is not just a child-focused teaching approach but the guidance of teaching. Andragogy is what and how adults learn over children with the willingness and focus. This is my drive for coding at Code Fellows. 

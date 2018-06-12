@@ -1,0 +1,2 @@
+# LJ-code201-day34
+I would say that the unexpected part of this experience has been the lack of structure that JavaScript is missing. Unfortunately, I prefer to work in a structured setting where I could see the results in a funnel. In other words, the result should be running one function which return has several other functions. Keeping things in a local scope as much as possible is vital to running a smooth site, system, or application. Adjusting to this takes time as I have to learn and adjust to such a change. 
