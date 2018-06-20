@@ -1,0 +1,3 @@
+# LJ-code201-day49
+###### 
+The latest lab of completing a shopping cart was a challenging lab because I had to start from a code that was left broken. I understand the assignment and rational behind it however, it is vital to have a starting point and visual to see things work together. Overall, the description was written poorly but the logic of the assignment was fantastic to help with the final project.  
