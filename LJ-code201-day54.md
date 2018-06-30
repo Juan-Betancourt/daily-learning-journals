@@ -1,0 +1,3 @@
+# LJ-code201-day54
+###### 
+Throughout 201 I've kept a journal, and there have been mixed feelings about utilizing such thing. On one aspect I see the advantage to doing such thing because it helps with understanding and reflecting on the past while attending Code Fellows; however, journals take time and intervene with the thought process of coding. Overall, I would like to see the journals more interactive or utilize with meetups or networking events that have a tangible meaning. 
